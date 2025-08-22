@@ -16,6 +16,7 @@ This repository includes:
 - [Project Overview](#-project-overview)  
 - [Features](#-features)  
 - [Demo](#-demo)  
+- [Screenshots](#-screenshots)  
 - [Technologies Used](#-technologies-used)  
 - [Setup and Installation](#️-setup-and-installation)  
 - [Usage](#-usage)  
@@ -64,6 +65,29 @@ The repository includes:
 |        Predicted Score: 78.00             |
 +-------------------------------------------+
 ```
+
+---
+
+## 📸 Screenshots  
+
+### Data Visualization using Matplotlib  
+![Matplotlib Visualization](screenshots/data_visualization_using_matplotlib.png)  
+
+### Data Visualization using Seaborn  
+![Seaborn Visualization](screenshots/data_visualization_using_seaborn.png)  
+
+### GUI Running Example  
+![GUI Screenshot](screenshots/gui_running_screenshots.png)  
+
+### CLI Running Example  
+![CLI Screenshot](screenshots/cli_running.png)  
+
+## 3D Regression Plane for Student Score Prediction
+
+This plot shows the fitted regression plane for predicting student scores based on hours studied and attendance percentage.
+
+![3D Regression Plane](screenshots/3d_regression_plane.png)
+
 
 ---
 
