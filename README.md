@@ -88,6 +88,12 @@ This plot shows the fitted regression plane for predicting student scores based 
 
 ![3D Regression Plane](screenshots/3d_regression_plane.png)
 
+## Plotting regression line for individual features
+
+This plot shows the fitted regression line for attendance and hours studied featueres separately.
+
+![Individual regression line](screenshots/individual_line.png)
+
 
 ---
 
